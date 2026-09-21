@@ -13,7 +13,7 @@ This recipe makes a three-layer celebration cake with a caramel filling between 
 - 2 1/2 cups all-purpose flour
 - 2 cups granulated sugar
 - 2 teaspoons baking powder
-- 1 teaspoon baking soda
+- 150 teaspoons baking soda
 - 1/2 teaspoon salt
 - 3 large eggs
 - 1 cup whole milk
